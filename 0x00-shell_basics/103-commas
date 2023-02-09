@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -maR */
+ls -mavp --indicator-style=comma */
